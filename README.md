@@ -1,4 +1,4 @@
-# Fact Check-Worthiness Detection as Positive Unlabelled Learning
+# Claim Check-Worthiness Detection as Positive Unlabelled Learning
 Dustin Wright and Isabelle Augenstein
 
 To appear in Findings of EMNLP 2020.
