@@ -1,7 +1,7 @@
 # Claim Check-Worthiness Detection as Positive Unlabelled Learning
 Dustin Wright and Isabelle Augenstein
 
-To appear in Findings of EMNLP 2020.
+To appear in Findings of EMNLP 2020. Read the preprint: https://arxiv.org/abs/2003.02736
 
 <p align="center">
   <img src="pu_learning_puc.png" alt="PUC">
